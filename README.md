@@ -25,7 +25,7 @@ This project demonstrates how business intelligence tools like Power BI can be u
 
 ## Dashboard Screenshots
 
-| Overview | Product Performance | Regional Trends |
+| Overview | Regional Trends | Product Performance |
 |----------|---------------------|------------------|
 | ![Dashboard 1](sales_dashboard_1.png) | ![Dashboard 2](sales_dashboard_2.png) | ![Dashboard 3](sales_dashboard_3.png) |
 
