@@ -47,9 +47,11 @@ This project demonstrates how business intelligence tools like Power BI can be u
 
 ## Insights Gained
 
-- Product C and Region East had the highest sales volume  
-- Sales peaked during Q3 in most regions  
-- Category A was the most consistent across all time periods  
+- Water Bottles generated the highest revenue among all product types, highlighting their popularity and strong sales   performance.
+- March 2022 was the most profitable month, indicating a significant sales peak during that period.
+- The South region contributed the highest overall sales compared to other regions.
+- Accessories and Clothing were also among the top-performing categories in terms of total revenue.
+- The Corporate customer segment drove more sales compared to Home Office and Consumer segments.  
 
 ---
 
